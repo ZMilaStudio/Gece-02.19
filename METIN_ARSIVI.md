@@ -52,6 +52,18 @@ Bu dosya `@gece02.19` için doğrulanmış proje metin deposudur.
 - **050** — “İnsan bir süre sonra kırıldığı için değil, değeri bilinmediği için susar. Çünkü bazı gidişlerin sebebi öfke değil, yorgunluktur.” — **Kullanılmadı**
 - **051** — “İnsan bazen bir manzaraya değil, içinde kalanlara dalıp gider.” — **Kullanılmadı**
 
+## 15 Eylül 2026 — Yeni kayıtlar
+
+- **052** — “Yaşamak, sekiz saatlik uykunun hafiflettiği on altı saatlik bir acıdır.” — **Kullanılmadı**
+- **053** — “İnsanın ait olmadığı bir çevrede yaşamasından feci bir şey olamaz.” — **Kullanılmadı** — görselde atıf: **Dostoyevski** (ayrıca doğrulanmadı)
+- **054** — “Hiç insan öldürmediği halde; bir katilden daha cani insanlar gördüm, umudumuzu öldürenleri gördüm.” — **Kullanılmadı** — görselde atıf: **Dostoyevski** (ayrıca doğrulanmadı)
+- **055** — “Sırf kalp kırmamak, kendime yakışanı yapmak için cevap vermediğim herkes, kendini haklı zannetti.” — **Kullanılmadı**
+- **056** — “Kasvetli, yağmurlu, karanlık bir gündü, tıpkı yaklaşan yaşlılığım gibi.” — **Kullanılmadı** — görselde atıf: **Dostoyevski** (ayrıca doğrulanmadı)
+- **057** — “Size yemin ederim ki çok fazla düşünmek bir hastalıktır, gerçek, somut bir hastalık.” — **Kullanılmadı** — görselde atıf: **Fyodor Dostoyevski** (ayrıca doğrulanmadı)
+- **058** — “Her insanın, seni farklı tanıması çok ilginç değil mi? Birine göre sessizsin, birine göre delisin, birine göre sıcak, birine göre uzak. Hepsi doğru. Çünkü kim olduğun, kiminle olduğuna göre değişiyor.” — **Kullanılmadı**
+- **059** — “Olmam gereken yerden çok uzaktayım, belki de yoruldum, bilmiyorum. Öyle karışık, öyle yabancıyım ki, bu aralar kendime bile gelemiyorum.” — **Kullanılmadı**
+- **060** — “Aşk, sevilen kişinin seven kişiye kendisi üzerinde zorbalık yapma hakkını armağan etmesidir.” — **Kullanılmadı** — görselde atıf: **Yeraltından Notlar, Dostoyevski** (ayrıca doğrulanmadı)
+
 ## Not
 
-14 Eylül 2026 tarihli 042–051 kayıtları kullanıcı tarafından gönderilen ekran görüntülerinden metinleştirildi. Ekran görüntüsünde açıkça görünmeyen yazar bilgisi eklenmedi.
+14 Eylül 2026 tarihli 042–051 ve 15 Eylül 2026 tarihli 052–060 kayıtları kullanıcı tarafından gönderilen ekran görüntülerinden metinleştirildi. Ekran görüntüsünde açıkça görünmeyen yazar bilgisi eklenmedi. Ekran görüntüsünde görünen yazar/eser atıfları ayrıca doğrulanmadıkça kesin yazar bilgisi olarak kabul edilmedi.
