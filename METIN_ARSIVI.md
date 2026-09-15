@@ -67,7 +67,10 @@ Bu dosya `@gece02.19` için doğrulanmış proje metin deposudur.
 ## 16 Eylül 2026 — Yeni kayıtlar
 
 - **061** — “Hep anlatırdı sevdiklerim, ‘Böyleyken böyle olur. Söz söylenir, göz dolar, haziranlar şubat olur.’” — **Kullanılmadı**
+- **062** — “Nasıl mıyım? Hep düşünüyorum, uyku düzenim yok, yalnız hissediyorum, her şeyi kafama takıyorum, iyiyim diyorum ama hiç iyi değilim, kendimi anlatamıyorum, anlatmakta istemiyorum, içim dolu ama susuyorum, sadece yorgunum...” — **Kullanılmadı**
+- **063** — “Neyine bağlandım bu kadar. Bana bakmayan gözlerine mi, yoksa hiç benim olmayan kalbine mi?” — **Kullanılmadı** — görselde atıf: **Özdemir Asaf** (ayrıca doğrulanmadı)
+- **064** — “Gecenin bir yarısı tek başına oturup beyninde sadece, niye sorusuna cevap aramak kadar zor bir şey yoktur bu hayatta...” — **Kullanılmadı**
 
 ## Not
 
-14 Eylül 2026 tarihli 042–051, 15 Eylül 2026 tarihli 052–060 ve 16 Eylül 2026 tarihli 061 kayıtları kullanıcı tarafından gönderilen ekran görüntülerinden metinleştirildi. Ekran görüntüsünde açıkça görünmeyen yazar bilgisi eklenmedi. Ekran görüntüsünde görünen yazar/eser atıfları ayrıca doğrulanmadıkça kesin yazar bilgisi olarak kabul edilmedi.
+14 Eylül 2026 tarihli 042–051, 15 Eylül 2026 tarihli 052–060 ve 16 Eylül 2026 tarihli 061–064 kayıtları kullanıcı tarafından gönderilen ekran görüntülerinden metinleştirildi. Ekran görüntüsünde açıkça görünmeyen yazar bilgisi eklenmedi. Ekran görüntüsünde görünen yazar/eser atıfları ayrıca doğrulanmadıkça kesin yazar bilgisi olarak kabul edilmedi.
