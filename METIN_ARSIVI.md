@@ -64,6 +64,10 @@ Bu dosya `@gece02.19` için doğrulanmış proje metin deposudur.
 - **059** — “Olmam gereken yerden çok uzaktayım, belki de yoruldum, bilmiyorum. Öyle karışık, öyle yabancıyım ki, bu aralar kendime bile gelemiyorum.” — **Kullanılmadı**
 - **060** — “Aşk, sevilen kişinin seven kişiye kendisi üzerinde zorbalık yapma hakkını armağan etmesidir.” — **Kullanılmadı** — görselde atıf: **Yeraltından Notlar, Dostoyevski** (ayrıca doğrulanmadı)
 
+## 16 Eylül 2026 — Yeni kayıtlar
+
+- **061** — “Hep anlatırdı sevdiklerim, ‘Böyleyken böyle olur. Söz söylenir, göz dolar, haziranlar şubat olur.’” — **Kullanılmadı**
+
 ## Not
 
-14 Eylül 2026 tarihli 042–051 ve 15 Eylül 2026 tarihli 052–060 kayıtları kullanıcı tarafından gönderilen ekran görüntülerinden metinleştirildi. Ekran görüntüsünde açıkça görünmeyen yazar bilgisi eklenmedi. Ekran görüntüsünde görünen yazar/eser atıfları ayrıca doğrulanmadıkça kesin yazar bilgisi olarak kabul edilmedi.
+14 Eylül 2026 tarihli 042–051, 15 Eylül 2026 tarihli 052–060 ve 16 Eylül 2026 tarihli 061 kayıtları kullanıcı tarafından gönderilen ekran görüntülerinden metinleştirildi. Ekran görüntüsünde açıkça görünmeyen yazar bilgisi eklenmedi. Ekran görüntüsünde görünen yazar/eser atıfları ayrıca doğrulanmadıkça kesin yazar bilgisi olarak kabul edilmedi.
